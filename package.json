@@ -1,0 +1,16 @@
+{
+  "name": "oddyserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "matter-js": "^0.19.0",
+    "ws": "^8.13.0"
+  }
+}
