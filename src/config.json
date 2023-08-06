@@ -1,5 +1,8 @@
 {
     "PORT":1212,
     "HOST":"localhost",
-    "MODE":"UNSECURE"
+    "MODE":"UNSECURE",
+    
+    "KEY": "./key.pem",
+    "CERT": "./cert.pem"
 }
