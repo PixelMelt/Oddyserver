@@ -56,18 +56,15 @@ If you would like to contribute to Oddyserver, you can fork this repository and 
     <a href="https://github.com/dpleshkov">
       <img src="https://avatars.githubusercontent.com/u/22554516?v=4" width="100" height="100">
     </a>
-    <figcaption>Dankdmitron</figcaption>
   </figure>
   <figure style="display: inline-block; text-align: center; width: 100px;">
     <a href="https://github.com/PixelMelt">
       <img src="https://avatars.githubusercontent.com/u/44953835?v=4" width="100" height="100">
     </a>
-    <figcaption>Pixelmelt</figcaption>
   </figure>
   <figure style="display: inline-block; text-align: center; width: 100px;">
     <a href="https://github.com/Bhpsngum">
       <img src="https://avatars.githubusercontent.com/u/53442511?v=4" width="100" height="100">
     </a>
-    <figcaption>Bhpsngum</figcaption>
   </figure>
 </p>
