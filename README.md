@@ -62,9 +62,4 @@ If you would like to contribute to Oddyserver, you can fork this repository and 
       <img src="https://avatars.githubusercontent.com/u/44953835?v=4" width="100" height="100">
     </a>
   </figure>
-  <figure style="display: inline-block; text-align: center; width: 100px;">
-    <a href="https://github.com/Bhpsngum">
-      <img src="https://avatars.githubusercontent.com/u/53442511?v=4" width="100" height="100">
-    </a>
-  </figure>
 </p>
