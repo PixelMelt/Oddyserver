@@ -2,7 +2,7 @@
 <img src="./images/oddyserver.png" width="200" height="200">
 
 ## What is Oddyserver?
-Oddyserver is a moddable game server for the hit web game [Oddyserver](https://starblast.io/).
+Oddyserver is a moddable game server for the hit web game [Starblast.io](https://starblast.io/).
 
 It is written in NodeJS and is designed to be easy to use and easy to modify.
 
